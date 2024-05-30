@@ -1,6 +1,6 @@
 <h1 align="center">Projeto: Treine.me
 </h1>
-<p align="center">Projeto 02 - explorer stag 2</p>
+<p align="center">Projeto Acessibilidade - explorer stag 2</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
